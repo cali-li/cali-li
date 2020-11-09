@@ -7,7 +7,7 @@
 - 📚 I'm currently a master's student at the University of Michigan
 - 🌱 Take a look at [my portfolio](https://cali-li.github.io/)
 - 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/cali-li/)
-- 📫 How to reach me: lwenjing at umich dot com
+- 📫 How to reach me: lwenjing at umich dot edu
 - 😄 Pronouns: she/her/hers
 - 👻 Fun fact about me: Beer pong queen | learning ukulele
 - 💙💛 Go Blue!!! 💛💙
