@@ -6,6 +6,7 @@
 - 🔭 I’m currently working at SCA - ISR
 - 📚 I'm currently a master's student at the University of Michigan
 - 🌱 Take a look at [my portfolio](https://cali-li.github.io/)
+- 🌱 I have huge passion in [data visualization](https://cali-li.github.io/vis) and would love to hear if you have any thoughts!
 - 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/cali-li/)
 - 📫 How to reach me: lwenjing at umich dot edu
 - 😄 Pronouns: she/her/hers
